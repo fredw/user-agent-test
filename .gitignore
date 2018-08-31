@@ -1,0 +1,12 @@
+# MacOS
+.DS_Store
+
+# Go
+*.test
+*.out
+vendor
+
+# IntelliJ project files
+.idea
+out
+gen
